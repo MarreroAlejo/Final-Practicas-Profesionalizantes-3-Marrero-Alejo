@@ -1,0 +1,39 @@
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\bin\Debug\SERVICES.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\bin\Debug\SERVICES.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\bin\Debug\SERVICES.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\bin\Debug\SERVICES.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\SERVICES\obj\Debug\SERVICES.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\SERVICES.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\SERVICES.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\SERVICES.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\SERVICES.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\SERVICES\obj\Debug\SERVICES.pdb
+E:\OneVision\SERVICES\bin\Debug\SERVICES.dll
+E:\OneVision\SERVICES\bin\Debug\SERVICES.pdb
+E:\OneVision\SERVICES\bin\Debug\BouncyCastle.Crypto.dll
+E:\OneVision\SERVICES\bin\Debug\BouncyCastle.Crypto.xml
+E:\OneVision\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+E:\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+E:\OneVision\SERVICES\obj\Debug\SERVICES.csproj.CopyComplete
+E:\OneVision\SERVICES\obj\Debug\SERVICES.dll
+E:\OneVision\SERVICES\obj\Debug\SERVICES.pdb

@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27C7044B-2084-4EE2-B60D-6F5E68C3D88A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>OneVision</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>OneVision.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net-Next, Version=4.0.3.0, Culture=neutral, PublicKeyToken=1e11be04b6288443, processorArchitecture=MSIL">
+      <HintPath>..\packages\BCrypt.Net-Next.4.0.3\lib\net472\BCrypt.Net-Next.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.104.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.104.2\lib\netstandard2.0\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML.Parser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1d5f7376574c51ec, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.Parser.1.2.0\lib\netstandard2.0\ClosedXML.Parser.dll</HintPath>
+    </Reference>
+    <Reference Include="CsvHelper, Version=33.0.0.0, Culture=neutral, PublicKeyToken=8c4959082be5c823, processorArchitecture=MSIL">
+      <HintPath>..\packages\CsvHelper.33.0.1\lib\net47\CsvHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.1.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.3.1.1\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.1.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.Framework.3.1.1\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.1.0.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.1.0\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.6.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.6.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.HashCode.1.1.1\lib\net461\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RBush, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RBush.4.0.0\lib\net47\RBush.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.Fonts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>..\packages\SixLabors.Fonts.1.0.0\lib\netstandard2.0\SixLabors.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.7.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FmrAccesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAccesos.Designer.cs">
+      <DependentUpon>FmrAccesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrAdministradordeUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrAdministradordeUsuarios.Designer.cs">
+      <DependentUpon>FmrAdministradordeUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrBackupRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrBackupRestore.Designer.cs">
+      <DependentUpon>FmrBackupRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionarVentas.Designer.cs">
+      <DependentUpon>FmrGestionarVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionUsuario.Designer.cs">
+      <DependentUpon>FmrGestionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionarProductos.Designer.cs">
+      <DependentUpon>FmrGestionarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionarPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionarPedidos.Designer.cs">
+      <DependentUpon>FmrGestionarPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrGestionarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrGestionarClientes.Designer.cs">
+      <DependentUpon>FmrGestionarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrLogin.Designer.cs">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrMenu.Designer.cs">
+      <DependentUpon>FmrMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrRecepcionarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrRecepcionarProductos.Designer.cs">
+      <DependentUpon>FmrRecepcionarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrReportes.Designer.cs">
+      <DependentUpon>FmrReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\mdCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\mdCliente.Designer.cs">
+      <DependentUpon>mdCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\mdPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\mdPedido.Designer.cs">
+      <DependentUpon>mdPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\mdPedidosRegistrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\mdPedidosRegistrados.Designer.cs">
+      <DependentUpon>mdPedidosRegistrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\mdProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\mdProducto.Designer.cs">
+      <DependentUpon>mdProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\mdVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\mdVenta.Designer.cs">
+      <DependentUpon>mdVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FmrAccesos.resx">
+      <DependentUpon>FmrAccesos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrAdministradordeUsuarios.resx">
+      <DependentUpon>FmrAdministradordeUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrBackupRestore.resx">
+      <DependentUpon>FmrBackupRestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionarVentas.resx">
+      <DependentUpon>FmrGestionarVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionUsuario.resx">
+      <DependentUpon>FmrGestionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionarProductos.resx">
+      <DependentUpon>FmrGestionarProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionarPedidos.resx">
+      <DependentUpon>FmrGestionarPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionarClientes.en-US.resx">
+      <DependentUpon>FmrGestionarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrGestionarClientes.resx">
+      <DependentUpon>FmrGestionarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrLogin.resx">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrMenu.resx">
+      <DependentUpon>FmrMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrRecepcionarProductos.resx">
+      <DependentUpon>FmrRecepcionarProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrReportes.resx">
+      <DependentUpon>FmrReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\mdCliente.resx">
+      <DependentUpon>mdCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\mdPedido.resx">
+      <DependentUpon>mdPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\mdPedidosRegistrados.resx">
+      <DependentUpon>mdPedidosRegistrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\mdProducto.resx">
+      <DependentUpon>mdProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\mdVenta.resx">
+      <DependentUpon>mdVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="I18n\language.es-ES">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{339987be-ded7-45f2-8375-0d3852e2f4f8}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DOMAIN\DOMAIN.csproj">
+      <Project>{0ac01ae8-65c4-4ac3-9919-b15c50711a61}</Project>
+      <Name>DOMAIN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LOGIC\LOGIC.csproj">
+      <Project>{61c29f40-1ae1-46a0-af39-f62f8d37c604}</Project>
+      <Name>LOGIC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SERVICES\SERVICES.csproj">
+      <Project>{f65741b4-6ff8-4eaa-ab59-4f15fb08f5d2}</Project>
+      <Name>SERVICES</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I18n\language.en-EN" />
+    <Content Include="OneVision.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

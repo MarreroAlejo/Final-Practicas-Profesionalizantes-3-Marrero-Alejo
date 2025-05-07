@@ -1,0 +1,30 @@
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\bin\Debug\DOMAIN.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\bin\Debug\DOMAIN.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\bin\Debug\DOMAIN.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\bin\Debug\DOMAIN.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\DOMAIN\obj\Debug\DOMAIN.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\DOMAIN\obj\Debug\DOMAIN.pdb
+E:\OneVision\DOMAIN\bin\Debug\DOMAIN.dll
+E:\OneVision\DOMAIN\bin\Debug\DOMAIN.pdb
+E:\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+E:\OneVision\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+E:\OneVision\DOMAIN\obj\Debug\DOMAIN.dll
+E:\OneVision\DOMAIN\obj\Debug\DOMAIN.pdb

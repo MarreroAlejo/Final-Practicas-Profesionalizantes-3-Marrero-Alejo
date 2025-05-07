@@ -1,0 +1,291 @@
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.Properties.Resources.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\UI.exe.config
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\UI.exe
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\UI.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DAO.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DOMAIN.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\LOGIC.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\SERVICES.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DAO.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DOMAIN.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\LOGIC.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\SERVICES.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.CopyComplete
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.exe
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.pdb
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\I18n\language.en-EN
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\I18n\language.es-ES
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\en-US\UI.resources.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.en-US.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\en-US\UI.resources.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\FontAwesome.Sharp.dll
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrAccesos.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrAdministradordeUsuarios.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrLogin.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FrmMenu.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGenerarPedidos.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrRecepcionarProductos.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarVentas.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionUsuario.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrRegistrarProductos.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrReportePedidos.resources
+E:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrReporteVentas.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\I18n\language.en-EN
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\I18n\language.es-ES
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\UI.exe.config
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\UI.exe
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\UI.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\en-US\UI.resources.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DAO.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DOMAIN.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\FontAwesome.Sharp.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\LOGIC.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\SERVICES.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DAO.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\DOMAIN.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\LOGIC.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\bin\Debug\SERVICES.pdb
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrAccesos.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrAdministradordeUsuarios.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarVentas.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionUsuario.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarProductos.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGenerarPedidos.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrLogin.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FrmMenu.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrRecepcionarProductos.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrReportePedidos.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrReporteVentas.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.Modales.mdProducto.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.Properties.Resources.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.en-US.resources
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\en-US\UI.resources.dll
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.csproj.CopyComplete
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.exe
+D:\PRACTICAS PROFESIONALIZANTES 3\Carpeta SalesVision\OneVision\UI\obj\Debug\UI.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\I18n\language.en-EN
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\I18n\language.es-ES
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\UI.exe.config
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\UI.exe
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\UI.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\en-US\UI.resources.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DAO.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DOMAIN.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\LOGIC.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\RBush.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SERVICES.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DAO.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DOMAIN.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\LOGIC.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SERVICES.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\RBush.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrAccesos.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrAdministradordeUsuarios.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrBackupRestore.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarVentas.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionUsuario.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarProductos.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarPedidos.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrLogin.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FrmMenu.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrRecepcionarProductos.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrReporteVentas.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdCliente.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdPedido.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdPedidosRegistrados.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdProducto.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdVenta.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.en-US.resources
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\en-US\UI.resources.dll
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.exe
+C:\Users\ASUS\Desktop\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\I18n\language.en-EN
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\I18n\language.es-ES
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DAO.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DOMAIN.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\LOGIC.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\RBush.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SERVICES.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Memory.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DAO.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DOMAIN.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\LOGIC.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SERVICES.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\RBush.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Memory.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrAccesos.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrAdministradordeUsuarios.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrBackupRestore.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarVentas.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionUsuario.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarProductos.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarPedidos.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrLogin.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FrmMenu.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrRecepcionarProductos.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdCliente.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdPedido.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdPedidosRegistrados.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdProducto.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Modales.mdVenta.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.en-US.resources
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\CsvHelper.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\CsvHelper.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\OneVision.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\OneVision.exe
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\OneVision.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\bin\Debug\en-US\OneVision.resources.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\en-US\OneVision.resources.dll
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\OneVision.exe
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\OneVision.pdb
+C:\Users\ASUS\OneDrive\Escritorio\ANALISTA DE SISTEMAS\4to año\PRACTICAS PROFESIONALIZANTES 3\Proyecto 2024\OneVision\UI\obj\Debug\UI.FmrReportes.resources
+E:\OneVision\UI\bin\Debug\I18n\language.es-ES
+E:\OneVision\UI\bin\Debug\OneVision.exe.config
+E:\OneVision\UI\bin\Debug\OneVision.exe
+E:\OneVision\UI\bin\Debug\OneVision.pdb
+E:\OneVision\UI\bin\Debug\en-US\OneVision.resources.dll
+E:\OneVision\UI\bin\Debug\BCrypt.Net-Next.dll
+E:\OneVision\UI\bin\Debug\ClosedXML.dll
+E:\OneVision\UI\bin\Debug\ClosedXML.Parser.dll
+E:\OneVision\UI\bin\Debug\CsvHelper.dll
+E:\OneVision\UI\bin\Debug\DAO.dll
+E:\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.dll
+E:\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\OneVision\UI\bin\Debug\DOMAIN.dll
+E:\OneVision\UI\bin\Debug\ExcelNumberFormat.dll
+E:\OneVision\UI\bin\Debug\FontAwesome.Sharp.dll
+E:\OneVision\UI\bin\Debug\LOGIC.dll
+E:\OneVision\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneVision\UI\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\OneVision\UI\bin\Debug\RBush.dll
+E:\OneVision\UI\bin\Debug\SERVICES.dll
+E:\OneVision\UI\bin\Debug\SixLabors.Fonts.dll
+E:\OneVision\UI\bin\Debug\System.Buffers.dll
+E:\OneVision\UI\bin\Debug\System.Memory.dll
+E:\OneVision\UI\bin\Debug\System.Numerics.Vectors.dll
+E:\OneVision\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneVision\UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OneVision\UI\bin\Debug\DAO.pdb
+E:\OneVision\UI\bin\Debug\DOMAIN.pdb
+E:\OneVision\UI\bin\Debug\LOGIC.pdb
+E:\OneVision\UI\bin\Debug\SERVICES.pdb
+E:\OneVision\UI\bin\Debug\BCrypt.Net-Next.xml
+E:\OneVision\UI\bin\Debug\ClosedXML.pdb
+E:\OneVision\UI\bin\Debug\ClosedXML.xml
+E:\OneVision\UI\bin\Debug\ClosedXML.Parser.xml
+E:\OneVision\UI\bin\Debug\CsvHelper.xml
+E:\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.xml
+E:\OneVision\UI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\OneVision\UI\bin\Debug\ExcelNumberFormat.xml
+E:\OneVision\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\OneVision\UI\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\OneVision\UI\bin\Debug\RBush.xml
+E:\OneVision\UI\bin\Debug\SixLabors.Fonts.xml
+E:\OneVision\UI\bin\Debug\System.Buffers.xml
+E:\OneVision\UI\bin\Debug\System.Memory.xml
+E:\OneVision\UI\bin\Debug\System.Numerics.Vectors.xml
+E:\OneVision\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\OneVision\UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\OneVision\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+E:\OneVision\UI\obj\Debug\UI.FmrAccesos.resources
+E:\OneVision\UI\obj\Debug\UI.FmrAdministradordeUsuarios.resources
+E:\OneVision\UI\obj\Debug\UI.FmrBackupRestore.resources
+E:\OneVision\UI\obj\Debug\UI.FmrGestionarVentas.resources
+E:\OneVision\UI\obj\Debug\UI.FmrGestionUsuario.resources
+E:\OneVision\UI\obj\Debug\UI.FmrGestionarProductos.resources
+E:\OneVision\UI\obj\Debug\UI.FmrGestionarPedidos.resources
+E:\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.resources
+E:\OneVision\UI\obj\Debug\UI.FmrLogin.resources
+E:\OneVision\UI\obj\Debug\UI.FrmMenu.resources
+E:\OneVision\UI\obj\Debug\UI.FmrRecepcionarProductos.resources
+E:\OneVision\UI\obj\Debug\UI.FmrReportes.resources
+E:\OneVision\UI\obj\Debug\UI.Modales.mdCliente.resources
+E:\OneVision\UI\obj\Debug\UI.Modales.mdPedido.resources
+E:\OneVision\UI\obj\Debug\UI.Modales.mdPedidosRegistrados.resources
+E:\OneVision\UI\obj\Debug\UI.Modales.mdProducto.resources
+E:\OneVision\UI\obj\Debug\UI.Modales.mdVenta.resources
+E:\OneVision\UI\obj\Debug\UI.Properties.Resources.resources
+E:\OneVision\UI\obj\Debug\UI.FmrGestionarClientes.en-US.resources
+E:\OneVision\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\OneVision\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\OneVision\UI\obj\Debug\en-US\OneVision.resources.dll
+E:\OneVision\UI\obj\Debug\UI.csproj.CopyComplete
+E:\OneVision\UI\obj\Debug\OneVision.exe
+E:\OneVision\UI\obj\Debug\OneVision.pdb

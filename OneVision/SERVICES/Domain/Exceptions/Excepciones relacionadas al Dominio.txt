@@ -1,0 +1,8 @@
+﻿Las excepciones representan errores relacionados con entidades del dominio, 
+pero dentro del contexto de los servicios. Esta ubicación puede ser apropiada si:
+
+- Las excepciones se refieren a problemas que ocurren cuando se intenta trabajar 
+	con entidades del dominio a través de servicios.
+
+- Se quiere mantener una separación clara entre excepciones de negocio (que estarían en Logic) 
+	y excepciones técnicas o de infraestructura (que estarían en Services).

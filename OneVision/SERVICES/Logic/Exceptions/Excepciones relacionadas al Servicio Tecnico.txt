@@ -1,0 +1,12 @@
+﻿Excepciones se relacionan específicamente con la lógica de los servicios, es decir, 
+con errores que ocurren durante la ejecución de reglas o procesos internos propios de los servicios.
+
+Ubicarlas en Services > Logic > Exceptions sería prudente si:
+
+Estás manejando errores técnicos o errores internos de lógica de servicios, como:
+	Fallos al conectarse a una base de datos.
+	Errores de comunicación con servicios externos.
+	Problemas al procesar una solicitud en el servicio.
+
+Quieres dejar claro que estas excepciones no son errores del dominio, 
+sino fallos específicos que ocurren en la implementación de la lógica de los servicios.
